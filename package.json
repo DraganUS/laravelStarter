@@ -1,7 +1,7 @@
 {
-  "name": "laravelStarter",
+  "name": "laravel-starter",
   "version": "1.0.0",
-  "description": "Laravel starter kits",
+  "description": "Laravel starter",
   "homepage": "https://github.com/DraganUS/laravelStarter",
   "type": "module",
   "repository": {

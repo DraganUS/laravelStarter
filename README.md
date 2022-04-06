@@ -3,7 +3,7 @@
 
 ## Run in terminal
 ```
-npx laravelStarter
+npx laravel-starter
 ```
 
 ## Packages Used
