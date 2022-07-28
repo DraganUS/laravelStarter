@@ -1,7 +1,7 @@
 {
-  "name": "laravel-starter",
+  "name": "laravel-start",
   "version": "1.0.0",
-  "description": "Laravel starter",
+  "description": "Laravel project starter",
   "homepage": "https://github.com/DraganUS/laravelStarter",
   "type": "module",
   "repository": {
@@ -19,6 +19,7 @@
     "figlet": "^1.5.2",
     "gradient-string": "^2.0.0",
     "inquirer": "^8.2.0",
+    "laravel-starter": "^1.0.0",
     "nanospinner": "^1.0.0"
   }
 }
